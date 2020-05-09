@@ -17,10 +17,7 @@ UFO Level 2: Multiple Search Categories
 For level 2, I complete the following tasks:
 - Complete all of Level 1 criteria
 
-- Write JavaScript code so the user can search for UFO sightings using the following criteria based on the table columns:
+- Write JavaScript code so the user can search for UFO sightings using the following criteria based on the table columns: date, city, state, country, and shape
 
-date
-city
-state
-country
-shape
+Within both folders, I include HTML Preview files for reference.
+
