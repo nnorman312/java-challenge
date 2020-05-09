@@ -9,7 +9,7 @@ For level 1, I complete the following tasks:
 
 - Using the UFO dataset (data.js) in the form of an array of JavaScript objects, write code that appends a table to a web page and then adds new rows of data for each UFO sighting
 
-- Include columns for date, city, state, country, shape, and comments 
+- Include columns for date, city, state, country, shape, duration, and comments 
 
 
 UFO Level 2: Multiple Search Categories
